@@ -1,6 +1,6 @@
 # Portfolio Optimization Using Python
 
-I. ****Why Portfolio ?**** 
+I. **Why Portfolio ?**
 
 Investing is one of the best things to do with the money which is left after all the necesaary expenses occured. It makes oneself financially independent, and not rely on the money of others in times of financial crisis.
 
