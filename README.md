@@ -20,6 +20,7 @@ So initially, I took a hypothetical portfolio (not optimized yet) made out of FA
 3. Amazon
 4. Netflix
 5. Google
+
 Yeah, feeling rich (lol). So, initially taking the weightage of each stock to be equal (0.2 each) , we calcualted the daily returns received using this portfolio.
 The data was extracted from **Yahoo Finance**, and we calculate the **Sharpe ratio** and **Volatility** also to compare effectively.
 
