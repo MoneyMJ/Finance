@@ -13,7 +13,7 @@ To put it plainly, when we invest in any company's stock, there are two types of
 
 Hence it is not advisable to follow the startegy we came up with in the start of discussion, as investing all our money in the stock which is presently giving best returns is too risky because if some internal affair of the company occur, we might loose all our money. That is why making a Portfolio is a must, which represent a combination of financial instruments like stocks, bonds etc. of different companies, thereby nullifying the unsystematic part of the risk. Having a diverse portfolio would protect ivestor from any potential threat due to events which are company-specific.
 
-II. ****Making a Portfolio**** - 
+II. ****Making a Portfolio**** ->
 
 Now that we have decided to invest in a certain group of companies, we have to find out the best combination of weightages of each stock in our portfolio, to get best risk return combination. For this, the concept of Efficient Frontier is pivotal.
 So initially, I took a hypothetical portfolio (not optimized yet) made out of FAANG group of companies:
